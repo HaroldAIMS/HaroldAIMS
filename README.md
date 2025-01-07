@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Halluya @HaroldAIMS Pasquerel Manoah
+- 👋 Hi, I’m Halluya Harold Pasquerel Manoah
 - 👀 I’m interested in Machine Learning, Artificial intelligence and Generative Artificial Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on significant projects
